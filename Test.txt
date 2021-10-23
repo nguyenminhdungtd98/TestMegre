@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello Minh Dung
-=======
-Hello
 Hello Cong Toan
->>>>>>> CongToan
+
